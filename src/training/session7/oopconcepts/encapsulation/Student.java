@@ -1,4 +1,4 @@
-package training.session6.oopconcepts.encapsulation;
+package training.session7.oopconcepts.encapsulation;
 //task 38 - grouping of data members and functions into the single unit/class is encapsulation.
 //if any component follows data hiding and abstraction is encapsulation.
 //hiding data behind method is encapsulation.suppose user click on button like bal.enqury he can fetch the data
