@@ -1,5 +1,6 @@
 package training.session6.oopconcepts.composition;
 
+//Entity
 public class Bedroom {
  Wall wall1,wall2,wall3,wall4;
  Ceiling ceiling;
