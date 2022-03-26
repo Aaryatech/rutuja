@@ -36,6 +36,10 @@ public int getQuilt() {
 public void setQuilt(int quilt) {
 	this.quilt = quilt;
 }
+void make()
+{
+	System.out.println("Bed -> bed is making");
+}
 public Bed(String style, int pillows, int height, int sheets, int quilt) {
 	super();
 	this.style = style;
@@ -44,9 +48,6 @@ public Bed(String style, int pillows, int height, int sheets, int quilt) {
 	this.sheets = sheets;
 	this.quilt = quilt;
 }
-void make()
-{
-	System.out.println("to the effect that the bed is made");
-}
+
 
 }

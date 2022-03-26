@@ -31,7 +31,7 @@ public void setGlobrating(int globrating) {
 }
 void turnOn()
 {
-	System.out.println("lamp is being turn on");
+	System.out.println("lamp -> turn on");
 }
 
 }
