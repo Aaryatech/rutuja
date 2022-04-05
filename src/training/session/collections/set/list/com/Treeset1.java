@@ -1,4 +1,4 @@
-package training.session.collections.com;
+package training.session.collections.set.list.com;
 //duplicates value not allowed
 //elements are store in ordered way and its a case sensitive a and  A both are different
 import java.util.Set;

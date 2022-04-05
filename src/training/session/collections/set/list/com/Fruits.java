@@ -1,4 +1,4 @@
-package training.session.collections.com;
+package training.session.collections.set.list.com;
 
 import java.util.ArrayList;
 import java.util.Collections;

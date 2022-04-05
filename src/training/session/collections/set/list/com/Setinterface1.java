@@ -1,4 +1,4 @@
-package training.session.collections.com;
+package training.session.collections.set.list.com;
 //task on hashset
 import java.util.HashSet;
 //The objects that we insert into the HashSet do not guarantee to be inserted in the same order. 

@@ -1,4 +1,4 @@
-package training.session.collections.com;
+package training.session.collections.set.list.com;
 //task on linkhashset
 //LinkedHashSet is an ordered version of HashSet that maintains a doubly-linked 
 

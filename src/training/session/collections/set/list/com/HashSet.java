@@ -1,3 +1,4 @@
+package training.session.collections.set.list.com;
 /*how internally work hashset code*/
 
 //package training.session.collections.com;

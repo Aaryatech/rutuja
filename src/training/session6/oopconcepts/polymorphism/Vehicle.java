@@ -2,7 +2,7 @@ package training.session6.oopconcepts.polymorphism;
 // method overriding
 class Vehicle{  
   void run(){
-	  System.out.println("Vehicle is running");
+	  System.out.print("Vehicle is running");
 	  }  
 }  
   
